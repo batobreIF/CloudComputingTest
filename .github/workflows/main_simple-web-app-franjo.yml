@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'simple-web-app-franjo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_67352A4BBCCE4F2488B50562680BEA43 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2B23249E684444DAA97CDE10D1CA4353 }}
           package: .
