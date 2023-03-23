@@ -1,0 +1,61 @@
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.csproj.AssemblyReference.cache
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.Form1.resources
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.csproj.GenerateResource.cache
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.AssemblyInfoInputs.cache
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.AssemblyInfo.cs
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.csproj.CoreCompileInputs.cache
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\SimpleCloudStorage.exe
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\SimpleCloudStorage.deps.json
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\SimpleCloudStorage.runtimeconfig.json
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\SimpleCloudStorage.dll
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\ref\SimpleCloudStorage.dll
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\SimpleCloudStorage.pdb
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Azure.Storage.Blobs.dll
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Azure.Storage.Common.dll
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\System.IO.Hashing.dll
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.csproj.CopyComplete
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.dll
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\ref\SimpleCloudStorage.dll
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.pdb
+C:\Users\nikolaus.fettinger\OneDrive - HTL Vöcklabruck\INFI\5. Klasse\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.genruntimeconfig.cache
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\SimpleCloudStorage.exe
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\SimpleCloudStorage.deps.json
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\SimpleCloudStorage.runtimeconfig.json
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\SimpleCloudStorage.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\ref\SimpleCloudStorage.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\SimpleCloudStorage.pdb
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Azure.Core.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Azure.Identity.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Azure.Storage.Blobs.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Azure.Storage.Common.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\System.IO.Hashing.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\System.Memory.Data.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.csproj.AssemblyReference.cache
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.Form1.resources
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.csproj.GenerateResource.cache
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.AssemblyInfoInputs.cache
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.AssemblyInfo.cs
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.csproj.CoreCompileInputs.cache
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.csproj.CopyComplete
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\ref\SimpleCloudStorage.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.pdb
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\obj\Debug\net6.0-windows\SimpleCloudStorage.genruntimeconfig.cache
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+Z:\Mein Ordner.gw\5AHWII\INFI\EGGJ\SimpleCloudStorage\SimpleCloudStorage\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll

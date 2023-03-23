@@ -1,0 +1,10 @@
+GET http://e2c00:8080/voting/help
+
+###
+
+PUT http://e2c00:8080/voting/22
+Content-Type: application/json
+
+4
+
+
