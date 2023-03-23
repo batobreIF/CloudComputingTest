@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xCDro6w6YCBDTpbYDKjHLiorluP2Q79lFnrg++RmMxSIhEk5YsiBYUeheh54xfvgw+6a4z8vWZvz4sTnY0SN+g==",
+  "dgSpecHash": "f3bENuHbXsP6KvyByYbG0mQMa0cEOKdjhjXaKkhHhdHgnyAIcRrQLJCQB1CAzNHHxxleSosan2bKwu6SKPePEw==",
   "success": true,
-  "projectFilePath": "Z:\\Mein Ordner.gw\\5AHWII\\INFI\\EGGJ\\SimpleCloudStorage\\SimpleCloudStorage\\SimpleCloudStorage.csproj",
+  "projectFilePath": "C:\\Users\\ivan.franjic\\Documents\\GitHub\\CloudComputingTest\\SimpleCloudStorage\\SimpleCloudStorage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivan.franjic\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ivan.franjic\\.nuget\\packages\\azure.identity\\1.8.2\\azure.identity.1.8.2.nupkg.sha512",

@@ -1189,11 +1189,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Mein Ordner.gw\\5AHWII\\INFI\\EGGJ\\SimpleCloudStorage\\SimpleCloudStorage\\SimpleCloudStorage.csproj",
+      "projectUniqueName": "C:\\Users\\ivan.franjic\\Documents\\GitHub\\CloudComputingTest\\SimpleCloudStorage\\SimpleCloudStorage.csproj",
       "projectName": "SimpleCloudStorage",
-      "projectPath": "Z:\\Mein Ordner.gw\\5AHWII\\INFI\\EGGJ\\SimpleCloudStorage\\SimpleCloudStorage\\SimpleCloudStorage.csproj",
+      "projectPath": "C:\\Users\\ivan.franjic\\Documents\\GitHub\\CloudComputingTest\\SimpleCloudStorage\\SimpleCloudStorage.csproj",
       "packagesPath": "C:\\Users\\ivan.franjic\\.nuget\\packages\\",
-      "outputPath": "Z:\\Mein Ordner.gw\\5AHWII\\INFI\\EGGJ\\SimpleCloudStorage\\SimpleCloudStorage\\obj\\",
+      "outputPath": "C:\\Users\\ivan.franjic\\Documents\\GitHub\\CloudComputingTest\\SimpleCloudStorage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ivan.franjic\\AppData\\Roaming\\NuGet\\NuGet.Config",
